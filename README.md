@@ -13,6 +13,7 @@
 # Literatur
 
 Die Vorlesung orientiert sich vor allem an den folgenden B&uumlchern:
+
 1. L. Ahlfors: Complex Analysis. An Introduction to the Theory of Analytic Functions of One Complex Variable
 2.  K. Jaenich: Funktionentheorie. Springer-Verlag. 
 
