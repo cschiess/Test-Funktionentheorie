@@ -1,7 +1,6 @@
 # Funktionentheorie HS 2016
 
 *Dozent:* [Rahul Pandharipande](https://people.math.ethz.ch/~rahul/)
-</ul>
 
 
 ## Aktuelle Hinweise:
